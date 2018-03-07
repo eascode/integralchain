@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-# Blockchain in Go
 
-A blockchain implementation in Go, as described in these articles:
-
-1. [Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-2. [Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-3. [Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-4. [Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-5. [Addresses](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-6. [Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-7. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
-=======
 # integralchain
 積分鏈。小積分.大夢想。
 
@@ -22,4 +10,4 @@ A blockchain implementation in Go, as described in these articles:
 3.積分發行不透明。傳統的積分發行基於資料庫，資料維護成本高昂，而小企業的積分又存在篡改偽造的風險，使得公信力不足
 
 更可惡的是、過期作廢
->>>>>>> 99c38d3e10865d754e284ce838508a93310011b8
+
